@@ -20,7 +20,7 @@ In this lab, I learned how security analysts detect Command and Control (C2) act
 - Metadata can reveal malicious activity
 - Network monitoring tools are important for SOC analysts
 
-### Screenshot – AWS CLI Enumeration
+### Screenshot – CLI Enumeration
 ![labs/tryhackme](AoC-Day-22.png.png)
 
 ### Screenshot – Completion
