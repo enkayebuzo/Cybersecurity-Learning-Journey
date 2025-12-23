@@ -47,7 +47,7 @@ This task highlighted how roles safely elevate access without sharing permanent 
 
 ## Task 5: Exploring S3
 
-Finally, I applied my permissions to explore Amazon S3, AWS’s object storage service. I practiced listing buckets and their contents:Command👇
+Finally, I applied my permissions to explore Amazon S3, AWS’s object storage service. I practiced listing buckets and their contents: Command 👇
 
 - aws s3api list-buckets
 - aws s3api list-objects --bucket <bucket-name>
