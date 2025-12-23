@@ -67,7 +67,7 @@ Key Takeaways
 
 - Learned the importance of least privilege and secure credential management
 
-This lab was an incredible introduction to AWS security, connecting IAM concepts, role-based access, and cloud storage in a real-world scenario. I now feel much more confident navigating and securing AWS environments.
+This lab was an incredible introduction to AWS security, connecting IAM concepts, role-based access, and cloud storage in a real-world scenario. 
 
 ### Screenshot – AWS CLI Enumeration
 ![labs/tryhackme](AoC-Day-23-Terminal.png)
