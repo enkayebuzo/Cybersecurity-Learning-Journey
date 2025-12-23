@@ -14,13 +14,13 @@ This task taught me the importance of credential security and how AWS CLI can be
 
 Next, I explored AWS IAM fundamentals:
 
-Users: Individual identities with credentials.
+- Users: Individual identities with credentials.
 
-Groups: Collections of users for easier permission management.
+- Groups: Collections of users for easier permission management.
 
-Roles: Temporary identities for elevated access.
+- Roles: Temporary identities for elevated access.
 
-Policies: JSON documents defining actions and resources.
+- Policies: JSON documents defining actions and resources.
 
 I also learned why misconfigurations can expose sensitive data and how least privilege principles help secure AWS environments. This was a key moment where I connected IAM theory with real-world security practices.
 
@@ -68,7 +68,9 @@ Key Takeaways
 - Learned the importance of least privilege and secure credential management
 
 This lab was an incredible introduction to AWS security, connecting IAM concepts, role-based access, and cloud storage in a real-world scenario. I now feel much more confident navigating and securing AWS environments.
+
 ### Screenshot – AWS CLI Enumeration
 ![labs/tryhackme](AoC-Day-23-Terminal.png)
+
 ### Screenshot – Completion
 ![labs/tryhackme](AoC-Day-23-Completion.png)
