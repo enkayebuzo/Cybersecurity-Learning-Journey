@@ -24,5 +24,5 @@ In this lab, I learned how security analysts detect Command and Control (C2) act
 ![labs/tryhackme](AoC-Day-22.png.png)
 
 ### Screenshot – Completion
-![labs/tryhackme](AoC-Day-22.png)
+![labs/tryhackme](AoC-Day-2 2-Completion.png.png)
 
