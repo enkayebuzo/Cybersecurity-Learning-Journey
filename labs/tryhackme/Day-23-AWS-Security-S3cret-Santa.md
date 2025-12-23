@@ -1,6 +1,6 @@
 ## Advent of Cyber 2025 – Day 23: AWS Security – S3cret Santa 🎄☁️
 
-I just completed **Day 23** of the Advent of Cyber 2025, diving into **AWS Security and Enumeration**. This lab gave me hands-on experience with **IAM, roles, and S3 buckets**, and it was a fantastic way to connect theoretical knowledge with practical cloud security skills.
+I just completed **Day 23** of the Advent of Cyber 2025, diving into **AWS Security and Enumeration**. This lab gave me hands-on experience with **IAM, roles, and S3 buckets**
 
 ## Task 1: Introduction
 
