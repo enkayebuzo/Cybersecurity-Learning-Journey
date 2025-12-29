@@ -28,10 +28,10 @@ I also learned why misconfigurations can expose sensitive data and how least pri
 
 I then practiced enumerating users and their permissions using AWS CLI: Commands 👇
 
-- aws iam list-users
+- ```aws iam list-users
 - aws iam list-user-policies --user-name sir.carrotbane
 - aws iam list-attached-user-policies --user-name sir.carrotbane
-- aws iam list-groups-for-user --user-name sir.carrotbane
+- aws iam list-groups-for-user --user-name sir.carrotbane ```
 
 
 This task gave me a clear picture of how permissions are structured in a real AWS account. I got to see inline vs. attached policies and understand what actions users are allowed to perform. It was exciting to explore IAM entities from a security perspective.
